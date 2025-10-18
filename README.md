@@ -1,12 +1,43 @@
-# React + Vite
+# 🌌 Rahul R.j Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **space-themed portfolio**, where creativity meets interactivity! 🚀👨‍🚀  
+Explore my projects, skills, and 3D creations through a cosmic journey.
 
-Currently, two official plugins are available:
+![Portfolio Screenshot](public\assets\projects\Portfolio_screenshot.png)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Technologies Used
 
-## Expanding the ESLint configuration
+This portfolio is built using a modern frontend stack:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Vite + React** – Fast and reactive UI
+- **Three.js & React Three Fiber** – Immersive 3D WebGL scenes
+- **Framer Motion** – Smooth animations & transitions
+- **EmailJS** – Contact form integration without backend
+- **Tailwind CSS / CSS Modules** – Styling & responsive design
+- And other modern web technologies to make the site interactive and futuristic 🚀
+
+---
+
+## 🪐 Features
+
+- **Interactive 3D sections** with Three.js
+- **Animated transitions** using Framer Motion
+- **Responsive design** across devices
+- **Smooth scrolling navigation**
+- **Contact form** with EmailJS integration
+- **Space & astronaut theme** — explore the galaxy while checking out my work!
+
+---
+
+## 📂 Project Structure
+
+portfolio/
+├─ public/ # Static assets (images, 3D models)
+├─ src/
+│ ├─ components/ # Navbar, sections, 3D canvas
+│ ├─ pages/ # Main pages / sections
+│ ├─ styles/ # Tailwind / CSS modules
+│ └─ main.jsx # Entry point
+├─ package.json
+├─ vite.config.js
+└─ README.md
