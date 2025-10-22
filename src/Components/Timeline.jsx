@@ -53,11 +53,11 @@ export const Timeline = ({
                   <h3>{item.date}</h3>
                 </div>
                 <div className="flex items-center">
-                  <h3 className=" text-lg">{item.Grade}</h3>
+                  <h3 className=" text-sm text-neutral-300">{item.City}</h3>
                 </div>
               </div>
-              <p className=" md:hidden text-neutral-400">{item.Area}</p>
-              <p className="hidden md:block text-right text-lg">{item.Grade}</p>
+              <p className=" md:hidden text-neutral-400 text-xl">{item.Area}</p>
+              <p className="hidden md:block text-right text-xl text-neutral-300">{item.City}</p>
             </div>
           </div>
         ))}

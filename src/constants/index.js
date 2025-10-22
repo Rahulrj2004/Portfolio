@@ -12,7 +12,7 @@ export const myProjects = [
             " Virtual scrolling for seamless content loading"
             , "Profile view with user-specific content 👤"
         ],
-        href: "x-tweets-production.up.railway.app",
+        href: "https://x-tweets-production.up.railway.app/",
         logo: "",
         image: "/assets/projects/Twitter.jpeg",
         tags: [
@@ -48,7 +48,7 @@ export const myProjects = [
             " Click on any movie card to watch its trailer instantly through a fullscreen model 🎥",
             "Sleek and responsive user interface ",
         ],
-        href: "https://github.com/Rahulrj2004/recommendation_system",
+        href: "https://recommendation-system-ovq2.onrender.com/",
         logo: "",
         image: "/assets/projects/Movie_Recommender.jpeg",
         tags: [
@@ -134,19 +134,19 @@ export const experiences = [
         title: "B.tech CSE",
         Area: "Adamas University",
         date: "2022-2026",
-        Grade: "7.2 CGPA"
+        City: "Kolkata"
     },
     {
         title: "Class 12'th",
         Area: "Vision Academy",
         date: "2022",
-        Grade:"69%"
+        City:"Kharagpur"
     },
     {
         title: "Class 10'th",
         Area: "DAV Public school",
         date: "2019",
-        Grade: "73%"
+        City: "Jharsuguda"
     },
     
 ];  
